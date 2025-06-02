@@ -76,8 +76,8 @@
 
 ### 📈 **GitHub Stats & Activity**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSalunke4285&show_icons=true&theme=algolia&count_private=true" height="175px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSalunke4285&theme=algolia" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSalunke4285&show_icons=true&theme=algolia&count_private=true" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSalunke4285&theme=algolia" height="165px" />
 </p>
 
 <p align="center">
