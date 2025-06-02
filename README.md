@@ -76,12 +76,14 @@
 
 ### 📈 **GitHub Stats & Activity**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSalunke4285&show_icons=true&theme=algolia&count_private=true" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSalunke4285&theme=algolia" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSalunke4285&show_icons=true&theme=algolia&count_private=true" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSalunke4285&theme=dark" height="150">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSalunke4285&theme=algolia" height="180px" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSalunke4285&theme=dark" height="150">
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSalunke4285&theme=dark" height="150"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSalunke4285&theme=algolia" height="180px" />
   <img src="https://github-profile-trophy.vercel.app/?username=ShubhamSalunke4285&theme=darkhub&margin-w=10" height="150">
 </p>
 
