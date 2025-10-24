@@ -70,7 +70,7 @@
 📌 **[Event Recommendation System](#)** – AI-powered content-based filtering for **personalized event suggestions**.  
 📌 **[Portfolio Builder](#)** – **NLP-powered resume parser** with **Flask & Python** (95% accuracy).  
 
-🔗 Explore all my projects [here](https://github.com/ShubhamSalunke4285).  
+🔗 Explore all my projects [here](https://github.com/ShubhamSalunke4285?tab=repositories).  
 
 ---
 
